@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AppConfig>
+    <Token>token</Token>
+    <MercureURL>http://localhost:3000/.well-known/mercure?topic=door_keys</MercureURL>
+    <ServerURL>http://127.0.0.1:8001</ServerURL>
+</AppConfig>
